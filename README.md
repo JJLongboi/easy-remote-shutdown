@@ -1,1 +1,2 @@
-[README.txt](https://github.com/JJLongboi/easy-remote-shutdown/files/13652798/README.txt)
+A easier way to access remote shutdown for script kiddies, after activation, 
+you will have a list of ip adresses from your network on your desktop.
